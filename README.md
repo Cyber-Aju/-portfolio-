@@ -1,2 +1,2 @@
 # -CV-
-creating portfolio using HTML
+creating cv using HTML
